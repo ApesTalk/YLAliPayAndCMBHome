@@ -54,3 +54,8 @@ UIScrollView嵌套UITableView：
 ## 二、招商银行首页
 
 一个UITableView就可以实现，只需要在滚动的时候根据偏移量来控制导航的背景色和透明度即可。
+
+
+## 效果图
+
+![](https://github.com/lqcjdx/YLAliPayAndCMBHome/blob/master/YLAliPayAndCMBHome/alipay.gif)
